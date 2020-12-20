@@ -80,4 +80,9 @@ const styles = StyleSheet.create({
     fontSize: 20,
     color: '#fff',
   },
+  thumbnail: {
+    width: 300,
+    height: 300,
+    resizeMode: "contain"
+  }
 });
